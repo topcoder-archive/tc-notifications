@@ -5,3 +5,7 @@ log.txt
 .DS_Store
 dist
 src/emails/**/*.css
+
+# Infrastructure definitions and detailed AWS inventories are maintained privately.
+/deploy/iam/
+/deploy/*-baseline.json
